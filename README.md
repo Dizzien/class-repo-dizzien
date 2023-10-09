@@ -1,2 +1,4 @@
 # class-repo-dizzien
-testing 
+Sittikron
+Bangkok
+Meta Front-End Developer Professtional Certificate
